@@ -40,9 +40,4 @@
         public Employee Employee { get; set; }
         public DateTime EndDate { get; set; }
     }
-
-    public class VisitingRequest
-    {
-
-    }
 }

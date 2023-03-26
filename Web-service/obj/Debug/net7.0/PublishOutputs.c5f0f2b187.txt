@@ -1,0 +1,7 @@
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\Web-service.exe
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\Web-service.dll
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\Web-service.deps.json
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\Web-service.runtimeconfig.json
+C:\Users\Huit\source\repos\WSR_test\Web-service\obj\Debug\net7.0\PubTmp\Out\Web-service.pdb

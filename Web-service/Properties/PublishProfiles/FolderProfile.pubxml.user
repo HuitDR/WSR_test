@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\Users\Huit\source\repos\WSR_test\Web-service-publish</_PublishTargetUrl>
-    <History>True|2023-03-25T16:27:27.8616829Z;True|2023-03-25T23:20:54.1372489+07:00;True|2023-03-25T23:08:14.6881582+07:00;True|2023-03-25T22:47:41.8567954+07:00;</History>
+    <History>True|2023-03-26T14:22:45.7766704Z;True|2023-03-25T23:27:27.8616829+07:00;True|2023-03-25T23:20:54.1372489+07:00;True|2023-03-25T23:08:14.6881582+07:00;True|2023-03-25T22:47:41.8567954+07:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>
