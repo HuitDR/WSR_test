@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4XLbpef1OJK2Y8MTRpk80Z7emcwWBdYkusbXIq+6nNZ/IzP+zjJd+KS5cC6dK4TcPEJwkY7cXNmzfa/qxAUzlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huit\\source\\repos\\WSR_test\\Web-service\\Web-service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huit\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.4\\microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\Huit\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\Huit\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

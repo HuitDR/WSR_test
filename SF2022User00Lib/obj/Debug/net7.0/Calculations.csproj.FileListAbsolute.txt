@@ -1,0 +1,12 @@
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\bin\Debug\net7.0\Calculations.deps.json
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\bin\Debug\net7.0\Calculations.dll
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\bin\Debug\net7.0\Calculations.pdb
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.csproj.AssemblyReference.cache
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.AssemblyInfo.cs
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.dll
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\refint\Calculations.dll
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\Calculations.pdb
+C:\Users\Huit\source\repos\WSR_test\SF2022User00Lib\obj\Debug\net7.0\ref\Calculations.dll
